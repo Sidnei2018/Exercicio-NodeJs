@@ -1,0 +1,20 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "description": "projetoExemplo",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Sidnei",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
